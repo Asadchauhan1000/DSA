@@ -1,8 +1,7 @@
 public class ReverseString {
     public static void main(String args[]){
-    String str="asad";
+    String str="Mango";
 System.out.print(logic(str));
-
     }
 
 public static String logic(String str){
