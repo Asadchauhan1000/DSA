@@ -29,7 +29,7 @@ public class KthMinMax {
 
 
     public static void main(String args[]){
-        int[] arr={5,2,4,3,45};
+        int[] arr={5,2,4,3,45,33,3};
         int res=max(arr,2);
         int res1=min(arr,3);
         System.out.println("k max"+res);
